@@ -10,4 +10,3 @@ two.html：
 one_page2
 <button type="button" onclick="window.location.assign('one.html#five')">Click Me!</button>
 </div>
-
